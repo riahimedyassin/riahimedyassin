@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riahi Yassin
 - 👀 I’m interested in Web and Software Devolopment 
-- 🌱 I’m currently learning ExpressJS && React TS
+- 🌱 I’m currently learning Angular && ThreeJS
 - 📫 How to reach me : Instagram : @riahi__yassin
 
 
