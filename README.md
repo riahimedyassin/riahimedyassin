@@ -6,11 +6,13 @@ My name is Riahi Yassin, a passionate IT Student with a keen interest in Web and
 - Currently Discovering mobile development and expanding my knowledge.
 - Passionate about problem solving.
 ## Skills ⌨️
-- **Frontend** : Angular,React.
-- **Backend** : ExpressTS.
+- **Frontend** : Angular,Next JS.
+- **Backend** : Express Inversify, NestJS.
+- **Mobile** : Flutter
 - **Preprocessors** : SASS,LESS.
 - **Database** : MongoDB, Postgres, MySQL, Oracle.
 - **UI Design** : Figma, Adobe XD, Phostoshop.
+- **Testing** : Jest
   
   
 ## Langages and frameworks
