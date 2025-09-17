@@ -1,1 +1,1 @@
-Building things.
+<img src="whatever.png" />
