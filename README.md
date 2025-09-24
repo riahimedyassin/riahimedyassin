@@ -1,1 +1,1 @@
-<img src="whatever.png" />
+<img src="git_banner.png" />
